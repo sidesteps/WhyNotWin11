@@ -1,8 +1,8 @@
 # WhyNotWin11
 
 
-
-### Because Linux desktops have a way better usability and are way less buggy. Oh, and it's free.
+**STATUS: Your PC is not windows 11 compatible**  
+**REASON: Linux desktops have a way better usability and are way less buggy. Oh, and it's free.**
 
 
 
