@@ -1,2 +1,9 @@
 # WhyNotWin11
-Detection Script to help identify why your PC isn't Windows 11 Release Ready
+
+
+
+## Because Linux desktops have a way better usability and are way less buggy. Oh, and it's free.
+
+
+
+[check out linux desktops](https://www.google.com/search?q=best+linux+desktops)
